@@ -1,0 +1,10 @@
+E:\OceanView\Ocean_View\bin\Ocean_View.dll
+E:\OceanView\Ocean_View\bin\Ocean_View.pdb
+E:\OceanView\Ocean_View\obj\Debug\Ocean_View.csprojResolveAssemblyReference.cache
+E:\OceanView\Ocean_View\obj\Debug\Ocean_View.dll
+E:\OceanView\Ocean_View\obj\Debug\Ocean_View.pdb
+E:\WebApplication3\WebApplication3\bin\Ocean_View.dll
+E:\WebApplication3\WebApplication3\bin\Ocean_View.pdb
+E:\WebApplication3\WebApplication3\obj\Debug\Ocean_View.csprojResolveAssemblyReference.cache
+E:\WebApplication3\WebApplication3\obj\Debug\Ocean_View.dll
+E:\WebApplication3\WebApplication3\obj\Debug\Ocean_View.pdb

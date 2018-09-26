@@ -1,0 +1,20 @@
+c:\users\zekai\documents\visual studio 2010\Projects\WebApplication3\WebApplication3\bin\WebApplication3.dll
+c:\users\zekai\documents\visual studio 2010\Projects\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+c:\users\zekai\documents\visual studio 2010\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+c:\users\zekai\documents\visual studio 2010\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
+C:\Users\zekaI\Documents\Visual Studio 2010\Projects\OceanView\WebApplication3\bin\WebApplication3.dll
+C:\Users\zekaI\Documents\Visual Studio 2010\Projects\OceanView\WebApplication3\bin\WebApplication3.pdb
+C:\Users\zekaI\Documents\Visual Studio 2010\Projects\OceanView\WebApplication3\obj\Debug\WebApplication3.dll
+C:\Users\zekaI\Documents\Visual Studio 2010\Projects\OceanView\WebApplication3\obj\Debug\WebApplication3.pdb
+E:\OceanView\WebApplication3\bin\WebApplication3.dll
+E:\OceanView\WebApplication3\bin\WebApplication3.pdb
+E:\OceanView\WebApplication3\obj\Debug\WebApplication3.dll
+E:\OceanView\WebApplication3\obj\Debug\WebApplication3.pdb
+E:\OceanView\Ocean_View\bin\WebApplication3.dll
+E:\OceanView\Ocean_View\bin\WebApplication3.pdb
+E:\OceanView\Ocean_View\obj\Debug\WebApplication3.dll
+E:\OceanView\Ocean_View\obj\Debug\WebApplication3.pdb
+E:\WebApplication3\WebApplication3\bin\WebApplication3.dll
+E:\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+E:\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+E:\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb

@@ -1,0 +1,120 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="WebApplication3.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style9
+        {
+            width: 350px;
+        }
+    </style>
+</head>
+<body>
+    <form runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1 id="ResName">
+                   <span style="font-family:Forte"><span style="font-size:220%">O</span>cean</span> 
+                   <span style="font-family:Agency FB"><span style="font-size:200%">V</span>iew</span>
+                </h1>
+            </div>
+
+            <div class="MyNav">
+                    
+                <table style="width: 100%; margin-top: 14px;">
+                    <tr>
+                        <td>
+                            <a href="HomePage.aspx">Home</a>
+                        </td>
+             
+                      
+                        <td>
+                           <a href="News.aspx">About</a>
+                        </td>
+
+                        <td>
+                            <a id=Login href="index.aspx">Login</a>
+                        </td> 
+                    </tr>
+                   
+                </table>
+
+            </div>
+            
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                    
+            </asp:ContentPlaceHolder>
+        </div>
+        
+    </div>
+
+    
+    <div style="width:100%;height:263px; background:black;float:left">
+        <table style="width: 100%; height: 261px;">
+            <tr>
+                <td class="style9">
+                    <h1  style="font-weight:bold;font-size:xx-large;color:White" >Special Holiday Gifts
+                    </h1>
+                    <div style="width:100%;height:193px;background-image:url('images/SHO.jpg');background-position:center">
+                    </div>
+                </td >
+                <td class="style9">
+                    <h1  style="font-weight:bold;font-size:xx-large;color:White">Playing Space For Children
+                    </h1>
+                    <div style="width:100%;height:193px;background-image:url('images/CPS.jpg');background-position:center">
+                    </div>
+                </td>
+                <td class="style9">
+                    <h1 style="font-weight:bold;font-size:xx-large;color:White">Couples Treat</h1>
+                    <div style="width:100%;height:193px;background-image:url('images/CT.jpg');background-position:center">
+                    </div>
+                </td>
+            </tr>
+            
+            
+        </table>
+        
+    </div>
+
+    
+
+    <div class="footer">
+        <div>
+            <table style="width: 100%; height: 209px;">
+            <tr>
+                <td class="style9">
+                    <asp:Label Text="Subscribe To Our Services" runat="server" style="color:White;font-size:larger;font-weight:bolder"/>
+                    <input type="email" name="Email2" 
+                        style="border-style: none; border-color: inherit; border-width: medium; background: #F0F0E9; color: #696763; display: block; font-family: 'Roboto', sans-serif; font-size: 14px; font-weight: 300; height: 40px; margin-bottom: 10px; outline: medium none; padding-left: 10px; width: 100%; margin-left: 9px;" 
+                        placeholder="Email Address"/>
+                    <asp:Button ID="Button1" runat="server"
+                    Text="Submit" 
+                    style="border-radius:5px;font-family:Agency FB;font-size:large;font-weight:bolder;background-color:tomato;color:White; margin-left: 0px;" 
+                    Width="137px"  />
+
+                </td >
+                <td class="style9">
+                    &nbsp;</td>
+                <td class="style9">
+                   <a href="#"><img alt="" src="/images/tw.png" style="border:3px solid #FF7F50;width:50px;height:50px" /></a>
+                   <a href="#"><img alt="" src="/images/fb.png"  style="border:3px solid #FF7F50;width:50px;height:50px" /></a>
+                   <a href="#"><img alt="" src="/images/inst.png" style="border:3px solid #FF7F50;width:50px;height:50px" /></a>
+                   <a href="#"><img alt="" src="/images/phn.png" style="border:3px solid #FF7F50;width:50px;height:50px" /></a>
+                </td>
+            </tr>
+            
+            
+        </table>
+        </div>
+    </div>
+    </form>
+</body>
+</html>
